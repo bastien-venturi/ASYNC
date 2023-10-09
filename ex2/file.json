@@ -1,0 +1,351 @@
+{
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD",
+        "zipcode_api": "api.zippopotam.us/AD/AD100"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR",
+        "zipcode_api": "api.zippopotam.us/AR/1601"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS",
+        "zipcode_api": "api.zippopotam.us/AS/96799"
+      },
+      {
+        "name": "Austria",
+        "code": "AT",
+        "zipcode_api": "api.zippopotam.us/AT/1010"
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "zipcode_api": "api.zippopotam.us/AU/0200"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD",
+        "zipcode_api": "api.zippopotam.us/BD/1000"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE",
+        "zipcode_api": "api.zippopotam.us/BE/1000"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG",
+        "zipcode_api": "api.zippopotam.us/BG/1000"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR",
+        "zipcode_api": "api.zippopotam.us/BR/01000-000"
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "zipcode_api": "api.zippopotam.us/CA/A0A"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH",
+        "zipcode_api": "api.zippopotam.us/CH/1000"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ",
+        "zipcode_api": "api.zippopotam.us/CZ/10000"
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "zipcode_api": "api.zippopotam.us/DE/01067"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK",
+        "zipcode_api": "api.zippopotam.us/DK/0800"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO",
+        "zipcode_api": "api.zippopotam.us/DO/10101"
+      },
+      {
+        "name": "Spain",
+        "code": "ES",
+        "zipcode_api": "api.zippopotam.us/ES/01001"
+      },
+      {
+        "name": "Finland",
+        "code": "FI",
+        "zipcode_api": "api.zippopotam.us/FI/00002"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO",
+        "zipcode_api": "api.zippopotam.us/FO/100"
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "zipcode_api": "api.zippopotam.us/FR/01000"
+      },
+      {
+        "name": "Great Britain",
+        "code": "GB",
+        "zipcode_api": "api.zippopotam.us/GB/AB1"
+      },
+      {
+        "name": "French Guyana",
+        "code": "GF",
+        "zipcode_api": "api.zippopotam.us/GF/97300"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG",
+        "zipcode_api": "api.zippopotam.us/GG/GY1"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL",
+        "zipcode_api": "api.zippopotam.us/GL/2412"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP",
+        "zipcode_api": "api.zippopotam.us/GP/97100"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT",
+        "zipcode_api": "api.zippopotam.us/GT/01001"
+      },
+      {
+        "name": "Guam",
+        "code": "GU",
+        "zipcode_api": "api.zippopotam.us/GU/96910"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY",
+        "zipcode_api": "api.zippopotam.us/GY/97312"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR",
+        "zipcode_api": "api.zippopotam.us/HR/10000"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU",
+        "zipcode_api": "api.zippopotam.us/HU/1011"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM",
+        "zipcode_api": "api.zippopotam.us/IM/IM1"
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "zipcode_api": "api.zippopotam.us/IN/110001"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS",
+        "zipcode_api": "api.zippopotam.us/IS/101"
+      },
+      {
+        "name": "Italy",
+        "code": "IT",
+        "zipcode_api": "api.zippopotam.us/IT/00010"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE",
+        "zipcode_api": "api.zippopotam.us/JE/JE1"
+      },
+      {
+        "name": "Japan",
+        "code": "JP",
+        "zipcode_api": "api.zippopotam.us/JP/100-0001"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI",
+        "zipcode_api": "api.zippopotam.us/LI/9485"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT",
+        "zipcode_api": "api.zippopotam.us/LT/00001"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU",
+        "zipcode_api": "api.zippopotam.us/LU/L-1009"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC",
+        "zipcode_api": "api.zippopotam.us/MC/98000"
+      },
+      {
+        "name": "Moldavia",
+        "code": "MD",
+        "zipcode_api": "api.zippopotam.us/MD/MD-2000"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH",
+        "zipcode_api": "api.zippopotam.us/MH/96960"
+      },
+      {
+        "name": "Macedonia",
+        "code": "MK",
+        "zipcode_api": "api.zippopotam.us/MK/1000"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "zipcode_api": "api.zippopotam.us/MP/96950"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ",
+        "zipcode_api": "api.zippopotam.us/MQ/97200"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX",
+        "zipcode_api": "api.zippopotam.us/MX/01000"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY",
+        "zipcode_api": "api.zippopotam.us/MY/01000"
+      },
+      {
+        "name": "Holland",
+        "code": "NL",
+        "zipcode_api": "api.zippopotam.us/NL/1000"
+      },
+      {
+        "name": "Norway",
+        "code": "NO",
+        "zipcode_api": "api.zippopotam.us/NO/0001"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ",
+        "zipcode_api": "api.zippopotam.us/NZ/0110"
+      },
+      {
+        "name": "Phillippines",
+        "code": "PH",
+        "zipcode_api": "api.zippopotam.us/PH/0400"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK",
+        "zipcode_api": "api.zippopotam.us/PK/10010"
+      },
+      {
+        "name": "Poland",
+        "code": "PL",
+        "zipcode_api": "api.zippopotam.us/PL/00-001"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "zipcode_api": "api.zippopotam.us/PM/97500"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR",
+        "zipcode_api": "api.zippopotam.us/PR/00601"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT",
+        "zipcode_api": "api.zippopotam.us/PT/1000-001"
+      },
+      {
+        "name": "French Reunion",
+        "code": "RE",
+        "zipcode_api": "api.zippopotam.us/RE/97400"
+      },
+      {
+        "name": "Russia",
+        "code": "RU",
+        "zipcode_api": "api.zippopotam.us/RU/101000"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE",
+        "zipcode_api": "api.zippopotam.us/SE/10005"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI",
+        "zipcode_api": "api.zippopotam.us/SI/1000"
+      },
+      {
+        "name": "Svalbard & Jan Mayen Islands",
+        "code": "SJ",
+        "zipcode_api": "api.zippopotam.us/SJ/8099"
+      },
+      {
+        "name": "Slovak Republic",
+        "code": "SK",
+        "zipcode_api": "api.zippopotam.us/SK/010"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM",
+        "zipcode_api": "api.zippopotam.us/SM/47890"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH",
+        "zipcode_api": "api.zippopotam.us/TH/10100"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR",
+        "zipcode_api": "api.zippopotam.us/TR/01000"
+      },
+      {
+        "name": "United States",
+        "code": "US",
+        "zipcode_api": "api.zippopotam.us/US/00210"
+      },
+      {
+        "name": "Vatican",
+        "code": "VA",
+        "zipcode_api": "api.zippopotam.us/VA/00120"
+      },
+      {
+        "name": "Virgin Islands",
+        "code": "VI",
+        "zipcode_api": "api.zippopotam.us/VI/00801"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT",
+        "zipcode_api": "api.zippopotam.us/YT/97600"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA",
+        "zipcode_api": "api.zippopotam.us/ZA/0002"
+      }
+    ]
+  }
+  
+  
